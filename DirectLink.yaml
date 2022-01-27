@@ -4,6 +4,19 @@ payload:
  
 #  - PROCESS-NAME,tv.twitch.android.app
 #  - DOMAIN-SUFFIX,ext-twitch.tv
-  - DOMAIN-SUFFIX,zxzj.fun
+  - DOMAIN-SUFFIX,zxzj.fun  
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,douyucdn.cn
+  - DOMAIN-SUFFIX,douyucdn2.cn
+  
+  #DDNS
+  - DOMAIN,checkip.dyndns.com
+  - DOMAIN-SUFFIX,dyndns.com
+  
+  #Xbox游戏下载
+  - DOMAIN-SUFFIX,ssets1.xboxlive.com
+  - DOMAIN-SUFFIX,assets2.xboxlive.com
+  - DOMAIN-SUFFIX,dlassets.xboxlive.com
  
  
