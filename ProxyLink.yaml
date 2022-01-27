@@ -1,0 +1,13 @@
+payload:
+  # 代理
+
+ 
+#  - PROCESS-NAME,tv.twitch.android.app
+#  - DOMAIN-SUFFIX,ext-twitch.tv
+  - DOMAIN-SUFFIX,olevod.tv
+  - DOMAIN-SUFFIX,olevod.com
+  - DOMAIN-SUFFIX,ouleyingyuan.tangrenjie.tv
+  - DOMAIN-SUFFIX,oule.tv
+  - DOMAIN-SUFFIX,nbyy.tv
+  - DOMAIN-SUFFIX,mudvod.tv
+#  - DOMAIN-SUFFIX,zxzj.funt

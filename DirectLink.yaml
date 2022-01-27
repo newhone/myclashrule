@@ -1,0 +1,9 @@
+payload:
+  # 直连
+
+ 
+#  - PROCESS-NAME,tv.twitch.android.app
+#  - DOMAIN-SUFFIX,ext-twitch.tv
+  - DOMAIN-SUFFIX,zxzj.fun
+ 
+ 
