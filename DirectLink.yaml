@@ -18,5 +18,8 @@ payload:
   - DOMAIN-SUFFIX,ssets1.xboxlive.com
   - DOMAIN-SUFFIX,assets2.xboxlive.com
   - DOMAIN-SUFFIX,dlassets.xboxlive.com
+  
+  #手机Xbox App
+  - PROCESS-NAME,com.microsoft.xboxone.smartglass
  
  
