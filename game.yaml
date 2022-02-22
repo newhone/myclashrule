@@ -3,7 +3,7 @@ payload:
   
   # 内容：xbox
   # 数量：8条
-  - PROCESS-NAME,com.gamepass
+#  - PROCESS-NAME,com.gamepass
   - DOMAIN-SUFFIX,xbox.com
   - DOMAIN-SUFFIX,xboxab.com
   - DOMAIN-SUFFIX,xboxab.net
