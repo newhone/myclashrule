@@ -1,0 +1,8 @@
+payload:
+  # 代理
+
+ 
+#  - PROCESS-NAME,tv.twitch.android.app
+#  - DOMAIN-SUFFIX,ext-twitch.tv
+#  - DOMAIN-SUFFIX,olevod.tv
+  - DOMAIN-SUFFIX,poe.trade
