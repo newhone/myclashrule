@@ -11,6 +11,8 @@ payload:
   - DOMAIN-SUFFIX,douyucdn2.cn
   - DOMAIN,yacd.haishan.me
   - DOMAIN,clash.razord.top
+  - DOMAIN-SUFFIX,newhone.tk
+  - DOMAIN-SUFFIX,newnow.tk
   
   #DDNS
   - DOMAIN,checkip.dyndns.com
