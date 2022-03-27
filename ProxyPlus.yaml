@@ -7,4 +7,4 @@ payload:
 #  - DOMAIN-SUFFIX,olevod.tv
   - DOMAIN-SUFFIX,poe.trade
   - DOMAIN-SUFFIX,poe.ninja
-  - IP-CIDR,153.254.86.0/24
+  - IP-CIDR,153.254.86.0/24,no-resolve
