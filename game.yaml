@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,xboxservice.com
   - DOMAIN-SUFFIX,xboxservices.com
   - DOMAIN-SUFFIX,gamepass.com
+  - PROCESS-NAME,PathOfExile.exe
   
   
 
