@@ -7,4 +7,6 @@ payload:
 #  - DOMAIN-SUFFIX,olevod.tv
   - DOMAIN-SUFFIX,poe.trade
   - DOMAIN-SUFFIX,poe.ninja
+  - DOMAIN-SUFFIX,weather.com
+  
   - IP-CIDR,153.254.86.0/24,no-resolve
