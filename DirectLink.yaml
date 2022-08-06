@@ -13,6 +13,7 @@ payload:
   - DOMAIN,clash.razord.top
   - DOMAIN-SUFFIX,newhone.tk
   - DOMAIN-SUFFIX,newnow.tk
+  - DOMAIN-SUFFIX,mistat.xiaomi.com
   
   #DDNS
   - DOMAIN,checkip.dyndns.com
