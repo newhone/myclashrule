@@ -1,6 +1,6 @@
 payload:
   # >回家内网规则
   #- IP-CIDR,192.168.0.0/24,no-resolve
-  -  DOMAIN,pc.com
+  - DOMAIN,pc.com
   - DOMAIN,router.com
   - DOMAIN-KEYWORD,parsec
