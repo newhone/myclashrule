@@ -3,4 +3,5 @@ payload:
   #- IP-CIDR,192.168.0.0/24,no-resolve
   - DOMAIN,pc.com
   - DOMAIN,router.com
-  - DOMAIN-KEYWORD,parsec
+  #- DOMAIN-KEYWORD,parsec
+  - PROCESS-NAME,tv.parsec.client
