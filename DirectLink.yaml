@@ -13,7 +13,9 @@ payload:
   - DOMAIN,clash.razord.top
   - DOMAIN-SUFFIX,newhone.tk
   - DOMAIN-SUFFIX,newnow.tk
-  - DOMAIN-SUFFIX,mistat.xiaomi.com
+#  - DOMAIN-SUFFIX,mistat.xiaomi.com
+  - DOMAIN-SUFFIX,724823.xyz
+  - DOMAIN-SUFFIX,861220.xyz
   
   #DDNS
   - DOMAIN,checkip.dyndns.com
