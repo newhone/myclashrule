@@ -4,19 +4,27 @@ payload:
  
 #  - PROCESS-NAME,tv.twitch.android.app
 #  - DOMAIN-SUFFIX,ext-twitch.tv
-  - DOMAIN-SUFFIX,zxzj.fun  
+   
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,douyucdn.cn
   - DOMAIN-SUFFIX,douyucdn2.cn
   - DOMAIN,yacd.haishan.me
   - DOMAIN,clash.razord.top
-  - DOMAIN-SUFFIX,newhone.tk
-  - DOMAIN-SUFFIX,newnow.tk
+  
 #  - DOMAIN-SUFFIX,mistat.xiaomi.com
+
+  #自有域名
   - DOMAIN-SUFFIX,724823.xyz
   - DOMAIN-SUFFIX,861220.xyz
-  
+  - DOMAIN-SUFFIX,newhone.tk
+  - DOMAIN-SUFFIX,newnow.tk
+
+  #视频
+  - DOMAIN-KEYWORD,ikandy #爱看电影网
+  - DOMAIN-SUFFIX,zxzj.fun  #在线之家 美剧 日剧
+  - DOMAIN-SUFFIX,mypikpak.com #网盘pikpak
+
   #DDNS
   - DOMAIN,checkip.dyndns.com
   - DOMAIN-SUFFIX,dyndns.com
