@@ -24,6 +24,7 @@ payload:
   - DOMAIN-KEYWORD,ikandy #爱看电影网
   - DOMAIN-SUFFIX,zxzj.fun  #在线之家 美剧 日剧
   - DOMAIN-SUFFIX,mypikpak.com #网盘pikpak
+  - DOMAIN-SUFFIX,app-measurement.com #pikpak 投屏
 
   #DDNS
   - DOMAIN,checkip.dyndns.com
