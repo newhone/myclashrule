@@ -13,7 +13,7 @@ payload:
   - DOMAIN,clash.razord.top
   - DOMAIN-SUFFIX,pool.ntp.org
   
-#  - DOMAIN-SUFFIX,mistat.xiaomi.com
+  - DOMAIN-SUFFIX,mistat.xiaomi.com
 
   #自有域名
   - DOMAIN-SUFFIX,724823.xyz
