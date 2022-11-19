@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,douyucdn2.cn
   - DOMAIN,yacd.haishan.me
   - DOMAIN,clash.razord.top
+  - DOMAIN-SUFFIX,pool.ntp.org
   
 #  - DOMAIN-SUFFIX,mistat.xiaomi.com
 
