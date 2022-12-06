@@ -12,7 +12,7 @@ payload:
   - DOMAIN-SUFFIX,xboxservices.com
   - DOMAIN-SUFFIX,gamepass.com
   #- PROCESS-NAME,PathOfExile.exe
-  - DST-PORT,6112
+  - DST-PORT,6112  #PathOfExile
   
   
 
