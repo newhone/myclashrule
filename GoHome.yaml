@@ -7,6 +7,6 @@ payload:
   - DOMAIN,router.cn
   - DOMAIN,router.lan
   #- DOMAIN-KEYWORD,parsec
-  - PROCESS-NAME,tv.parsec.client
+#  - PROCESS-NAME,tv.parsec.client
   - DOMAIN,ac68.lan
   - DOMAIN,ac68.com
