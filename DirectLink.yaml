@@ -22,8 +22,8 @@ payload:
   - DOMAIN-SUFFIX,newnow.tk
   
   #  局域网IP
-  - SRC-IP-CIDR,192.168.0.154/32,no-resolve     #S22U
-  - SRC-IP-CIDR,192.168.0.217/32,no-resolve     #PC
+  - SRC-IP-CIDR,192.168.0.154/32     #S22U
+  - SRC-IP-CIDR,192.168.0.217/32     #PC
 
 
   #视频
