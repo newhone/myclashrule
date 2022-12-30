@@ -10,10 +10,14 @@ payload:
 #  - DOMAIN-SUFFIX,xboxlive.com
 #  - DOMAIN-SUFFIX,xboxservice.com
 #  - DOMAIN-SUFFIX,xboxservices.com
+
   - DOMAIN-SUFFIX,gamepass.com
+  - SRC-IP-CIDR,192.168.0.124/32,no-resolve     #Xbox
+
   #- PROCESS-NAME,PathOfExile.exe
 #  - DST-PORT,6112  #PathOfExile
 #  - DST-PORT,1119  #Diablo II
+
 
   
   
