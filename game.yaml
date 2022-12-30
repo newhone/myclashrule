@@ -12,7 +12,7 @@ payload:
 #  - DOMAIN-SUFFIX,xboxservices.com
 
   - DOMAIN-SUFFIX,gamepass.com
-  - SRC-IP-CIDR,192.168.0.124/32,no-resolve     #Xbox
+  - SRC-IP-CIDR,192.168.0.124/32    #Xbox
 
   #- PROCESS-NAME,PathOfExile.exe
 #  - DST-PORT,6112  #PathOfExile
